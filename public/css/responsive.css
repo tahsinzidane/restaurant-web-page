@@ -1,15 +1,41 @@
 @media screen and (min-width: 480px) {
-  .bg-container{
+  .bg-container {
     height: 130vh;
   }
-  .hdr-img-box{
+
+  .hdr-img-box {
     height: 500px;
+  }
+
+  .fnh {
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 390px) {
+  .fnh {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .fnh {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+
+
+  .fnh h4 {
+    float: left;
   }
 }
 
 /* nest hub  */
 @media screen and (min-width: 1218px) {
-  .bg-container{
+  .bg-container {
     height: 100vh;
   }
 
