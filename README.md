@@ -1,7 +1,7 @@
 # restaurant-web-page
 restaurant web page design by me,  this is my first webpage design
 
-see this page live [click here]()
+see this page live [click here](https://tahsinzidane.github.io/restaurant-web-page/)
 
 <img src="./public/img/mein preview.png">
 
@@ -11,8 +11,9 @@ see this page live [click here]()
 # language and tools used in
  - html
  - css
- - bootstrap-5.3.3
+ - bootstrap v5.3.3
  - javaScript
+ - remixicon
 
  # LICENSE
 
