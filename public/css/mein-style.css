@@ -156,6 +156,10 @@ body.dark-mode footer {
   /* Adjust color for headings, paragraphs, links, buttons, inputs, etc. */
 }
 
+body.button{
+  background-color: red;
+}
+
 body.dark-mode th {
   background-color: rgba(34, 31, 31, 0.388);
 }

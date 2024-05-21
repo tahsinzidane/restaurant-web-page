@@ -19,6 +19,12 @@
   }
 }
 
+@media screen and (min-width: 600px) {
+  .fnh {
+    text-align: center;
+  }
+}
+
 @media screen and (min-width: 375px) {
   .fnh {
     text-align: center;
@@ -39,4 +45,36 @@
     height: 100vh;
   }
 
+}
+
+@media only screen and (max-width: 600px) {
+
+  /* Toggle switch styles */
+  .NightlyWeb {
+      /* display: inline-block; */
+      z-index: 99999;
+      /* position: static;
+  top: 10px;
+  left: 50%;
+  user-select: none; */
+      position: fixed;
+      top: 90vh;
+      right: 86%;
+  }
+}
+
+@media only screen and (max-width: 994px) {
+
+  /* Toggle switch styles */
+  .NightlyWeb {
+      /* display: inline-block; */
+      z-index: 99999;
+      /* position: static;
+  top: 10px;
+  left: 50%;
+  user-select: none; */
+      position: fixed;
+      top: 90vh;
+      right: 86%;
+  }
 }
