@@ -1,0 +1,16 @@
+@media screen and (min-width: 480px) {
+  .bg-container{
+    height: 130vh;
+  }
+  .hdr-img-box{
+    height: 500px;
+  }
+}
+
+/* nest hub  */
+@media screen and (min-width: 1218px) {
+  .bg-container{
+    height: 100vh;
+  }
+
+}
