@@ -14,6 +14,7 @@ see this page live [click here](https://tahsinzidane.github.io/restaurant-web-pa
  - bootstrap v5.3.3
  - javaScript
  - remixicon
+ - nightlyWeb 
 
  # LICENSE
 
